@@ -1,4 +1,4 @@
-# 📅 Gantt Chart for Global HealthCure Project
+# 📅 Project Timeline for Global HealthCure Project
 
 ## 📌 February (Week-Wise Breakdown)
 ### 🗓 Week 1 (Feb 1 – Feb 7): **Research & Planning**
