@@ -43,6 +43,9 @@ gantt
     Deployment & Documentation         :crit, e2, 2024-03-31, 1d
 
 %% Legend Section
-    section Legend
-    🔴 Critical Tasks                   :crit, l1, 2024-04-01, 1d
-    🔵 Ongoing Tasks                     :active, l2, 2024-04-02, 1d
+   section Legend
+    🔴 Critical Tasks (crit)             :crit, l1, 2024-04-01, 1d
+    🔵 Ongoing Tasks (active)            :active, l2, 2024-04-02, 1d
+    🟢 Final Phase (Deployment & Review) :l3, 2024-04-03, 1d
+    ✅ Completed Tasks (done)             :done, l4, 2024-04-04, 1d
+    🟡 In-Progress Tasks (done & active)  :done, active, l5, 2024-04-05, 1d
