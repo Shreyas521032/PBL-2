@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title Global HealthCure Project Timeline
+    title Gantt Chart for Global HealthCure Project
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d
     
