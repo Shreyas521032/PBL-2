@@ -1,14 +1,9 @@
+```mermaid
 gantt
     title Gantt Chart for Global HealthCure Project
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d
-
-    %% Color Legend:
-    %% ✅ Green - Completed
-    %% 🔵 Blue - Ongoing
-    %% 🟡 Yellow - Standard Tasks
-    %% 🔴 Red - Critical Tasks
-
+    
     %% February - Research & Planning
     section February: Research & Planning
     Research & Competitor Analysis     :done,   crit, a1, 2024-02-01, 7d
@@ -46,26 +41,3 @@ gantt
     section March 30-31: Deployment & Review
     Final UI/UX Enhancements           :crit, e1, 2024-03-30, 1d
     Deployment & Documentation         :crit, e2, 2024-03-31, 1d
-
-    %% Style Definitions
-    style a1 fill:#2ecc71,stroke:#1e8449,stroke-width:2px  %% Green (Completed)
-    style a2 fill:#2ecc71,stroke:#1e8449,stroke-width:2px
-    style a3 fill:#2ecc71,stroke:#1e8449,stroke-width:2px
-    style a4 fill:#2ecc71,stroke:#1e8449,stroke-width:2px
-
-    style b1 fill:#3498db,stroke:#1f618d,stroke-width:2px  %% Blue (Ongoing)
-    style b2 fill:#3498db,stroke:#1f618d,stroke-width:2px
-    style b3 fill:#3498db,stroke:#1f618d,stroke-width:2px
-    style b4 fill:#3498db,stroke:#1f618d,stroke-width:2px
-
-    style c1 fill:#f1c40f,stroke:#d68910,stroke-width:2px  %% Yellow (Standard Tasks)
-    style c2 fill:#f1c40f,stroke:#d68910,stroke-width:2px
-    style c3 fill:#f1c40f,stroke:#d68910,stroke-width:2px
-    style c4 fill:#f1c40f,stroke:#d68910,stroke-width:2px
-
-    style c5 fill:#e74c3c,stroke:#922b21,stroke-width:2px  %% Red (Critical Tasks)
-    style c6 fill:#e74c3c,stroke:#922b21,stroke-width:2px
-    style c7 fill:#e74c3c,stroke:#922b21,stroke-width:2px
-    style d3 fill:#e74c3c,stroke:#922b21,stroke-width:2px
-    style e1 fill:#e74c3c,stroke:#922b21,stroke-width:2px
-    style e2 fill:#e74c3c,stroke:#922b21,stroke-width:2px
