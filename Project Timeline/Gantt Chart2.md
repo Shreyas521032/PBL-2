@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Gantt Chart for Global HealthCure Project
     dateFormat  YYYY-MM-DD
