@@ -1,9 +1,14 @@
-```mermaid
 gantt
     title Gantt Chart for Global HealthCure Project
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d
-    
+
+    %% 📌 Color Legend:
+    %% ✅ Green - Completed Tasks
+    %% 🔵 Blue - Ongoing Tasks
+    %% 🟡 Yellow - Standard Tasks
+    %% 🔴 Red - Critical Tasks
+
     %% February - Research & Planning
     section February: Research & Planning
     Research & Competitor Analysis     :done,   crit, a1, 2024-02-01, 7d
